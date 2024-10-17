@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Aadd button
 
 const button = document.createElement('button');
@@ -12,3 +13,11 @@ button.addEventListener('click', () => {
   list.appendChild(item);
   input.value = '';
 });
+=======
+// add the
+
+const express = require('express');
+const bodyParser = require('body-parser');
+
+const app = express();
+>>>>>>> feature
